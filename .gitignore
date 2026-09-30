@@ -6,3 +6,4 @@ uploads/*
 *.tsbuildinfo
 data/
 certbot/
+certbot/
